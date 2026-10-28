@@ -1,0 +1,4 @@
+.opencode/
+论文/
+*.log
+node_modules/
